@@ -110,7 +110,7 @@ ALBUM ART BACKGROUND
   backface-visibility: hidden;
   will-change: transform;
   transition: background-image var(--transition);
-  opacity: 0.55;
+  opacity: 0.2;
   z-index: 0;
 }
 
